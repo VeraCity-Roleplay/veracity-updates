@@ -1,0 +1,38 @@
+Known issues and fixes suggested by community members
+
+🟢 Fixed and ready to be implemented
+✔️ FOOD: --
+✔️ IMAGES: --
+
+🟡 Needs Additonal Testing
+⚠️ --: --
+
+🔴 Needs Fixin
+🧰 Wasabi Police: Fix jailing through menu
+🧰 RD-Citations: Citations not ox_inventory ready.
+🧰 SAFD: Supply Line job check has an issue // INFORMED DEV
+🧰 Wheel Lock: Wheel Lock with Advanced Parking // INFORMED DEV
+🧰 Smash&Grab: Needs fixing // INFORMED DEV
+🧰 GN Sheriff Map: Find conflicting issue for pedestrian parking gate.
+🧰 Hotwiring: Fix hotwiring with ox-lib minigame // PLANNING TO GET A DIFFERENT KEY SYSTEM
+
+🔴 Long Term Fixing
+🛠️ WHEEL LOCK: Waiting on Kiminazie for wheel lock
+🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
+🛠️ Player Inventories: Decide on a final on person weight inventory
+🛠️ Housing: Set inventory limits for storages bought in shop
+🛠️ Housing: Add more than just 1 police job ``` policeName = 'police', -- Police job name ``` // Have informed DEV
+🛠️ Weapons: Complete current list of weapons
+🛠️ Dumpsters: More items to find in dumpsters when you search them - Idea from ryanfrazier
+🛠️ Police Charges: Integrate list of charges to MDT and CITATIONS
+🛠️ EMS/FIRE: Everything
+🛠️ Prison: Everything
+
+🔴 Inventory Fixing
+🛠️ FOOD: Sliced Onions, Candy for Halloween Event. Need to perfect prop handling of candy
+🛠️ DRINK: --
+🛠️ IMAGES: --
+
+🔴 PD Fixing
+🛠️ FURNITURE: Sheriff furniture
+🛠️ BILLING: Make sure other officers can see society invoices

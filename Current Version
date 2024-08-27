@@ -1,0 +1,32 @@
+Version 1.28
+
+🟣 ADDED
+•  DYNASTY 8 MLO: New permanent Dynasty 8 MLO
+•  TK_JAIL: New jail/prison system (WIP)
+•  NEAREST POSTAL: Added Nearest Postal system. You can also use /postal # to set a waypoint to that postal
+•  NEW K9 SYSTEM: Beware of the K9 units. They be bringing the fur missle!
+•  RM THROW SYSTEM: You are able to throw items/weapons (WIP)
+•  NEW BCSO FLEET: BRAND NEW BCSO FLEET COMPLETE!
+
+🟡 CHANGED
+•  SAFR CLOTHING: Re-done and working
+•  JG MECHANIC: Updated
+•  CD DISPATCH: Updated, noticeable features: auto blips when switching on foot to a vehicle. Panic Button set to HOME. Default stolen cars alert removed
+•  WASABI BRIDGE: Updated
+•  WASABI AMBULANCE: Updated
+•  MDT: Updated
+•  WALKSHAKE: Modified where head bob is only applied when jogging/running and it will apply for first person. Regular walking will not cause head bob.
+•  NEAREST POSTAL: Modified so it doesn't show while using LB-Phone or Multicharacter Selection (big win)
+
+🔴 REMOVED
+❌ RCORE PRISON: Removed
+
+🚧 NEW FRAMEWORK FOR NEW WORK IN PROGRESS SERVER? - QBOX UPDATES (WIP) 🚧
+•  V2 UNDER WORKS: We are working on the QBOX server extensively and will be a big improvement from V1!
+•  BBQ: New BBQ script with extensive modifications done to it to tailor VeraCity! Persistant BBQ grills with saved fuel amounts.
+•  NEW INTERACT: New Interactation system that will be used in V2
+•  WHITE WIDOW: Revamped for 2.0! White Widow staff will now have to be more pro-active for their business to succeed!
+	- Pool table has been cleaned off so it can actually be used!
+	- Snack table will generate income for the White Widow. Employees will have to make sure it stays stocked up!
+	- Grow managers will have meaning now! Plant the stores seeds in the basement and keep track of plants. The better the quality the plants, the better yield! Water and Fertilize plants to keep them strong and healthy. White Widow will now have to manage their stock if they want to continue keeping business!
+	- Roll joints and bag products!
