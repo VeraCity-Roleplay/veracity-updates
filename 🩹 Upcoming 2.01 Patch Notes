@@ -1,13 +1,16 @@
 Version 2.01
 
 🟣 ADDED
-•  --: --
+•  SHOP: Added Dons Country Store as a shop!
 
 🟡 CHANGED
-•  --: --
+•  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
 
 🟢 FIXES
-✔️ CONSUMABLES: Fixed crisps. Fixed water.
+✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack
+✔️ CONSUMABLES: Fixed crisps. Fixed water bottle. Fixed sandwich
+✔️ PHONE: Fixed photos now saving in gallery.
+✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
 
 🔴 REMOVED
 ❌ --: --
