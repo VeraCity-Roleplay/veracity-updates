@@ -13,6 +13,7 @@ Version 2.01
 •  WASABI BRIDGE: Updated
 •  REDUTZU-MDT: Updated
 •  RP EMOTES: Updated to 1.52
+•  ITEM "CARDHOLDER": Modified slots to 25. Added acceptance of Insurance, Car Registration, Health Insurance, and Home Insurance cards.
 
 🟢 FIXES
 ✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy
@@ -27,7 +28,7 @@ Version 2.01
 ✔️ RTX CARRY: Fixed notification error
 
 🔴 REMOVED
-❌ KEYBINDING: Removed statistics(vms_gym) keybind
+❌ KEYBINDING: Removed statistics(VMS GYM) keybind
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
