@@ -3,6 +3,7 @@ Version 2.01
 🟣 ADDED
 •  SHOP: Added Dons Country Store as a shop!
 •  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
+•  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -20,9 +21,13 @@ Version 2.01
 ✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
 ✔️ VANILLA UNICORN: Fixed boss menu
 ✔️ DEALERSHIPS: Fixed license check for purchasing
+✔️ SAFR: Fixed boss menu
+✔️ OUTLAW PERFORMANCE: Fixed boss menu
+✔️ REBEL TOWING: Fixed boss menu
+✔️ RTX CARRY: Fixed notification error
 
 🔴 REMOVED
-❌ --: --
+❌ KEYBINDING: Removed statistics(vms_gym) keybind
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
