@@ -2,6 +2,7 @@ Version 2.01
 
 🟣 ADDED
 •  SHOP: Added Dons Country Store as a shop!
+•  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -10,6 +11,7 @@ Version 2.01
 •  OX LIB: Updated
 •  WASABI BRIDGE: Updated
 •  REDUTZU-MDT: Updated
+•  RP EMOTES: Updated to 1.52
 
 🟢 FIXES
 ✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy
@@ -17,6 +19,7 @@ Version 2.01
 ✔️ PHONE: Fixed photos now saving in gallery.
 ✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
 ✔️ VANILLA UNICORN: Fixed boss menu
+✔️ DEALERSHIPS: Fixed license check for purchasing
 
 🔴 REMOVED
 ❌ --: --
