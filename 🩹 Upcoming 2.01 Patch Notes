@@ -9,15 +9,17 @@ Version 2.01
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
 •  QBX CORE: Updated
-•  OX_INVENTORY: Updated
+•  OX_INVENTORY: Updated. Changed weights of insurance cards to 1. Changed weight of stone from 2000 to 1800
 •  OX LIB: Updated
 •  WASABI BRIDGE: Updated
 •  REDUTZU-MDT: Updated
 •  RP EMOTES: Updated to 1.52
 •  ITEM "CARDHOLDER": Modified slots to 25. Added acceptance of Insurance, Car Registration, Health Insurance, and Home Insurance cards.
+•  MINER JOB: Modified chances of items during job. Modified payout
+•  OILRIG JOB: Modified chances of items on completion of job. Modified payout
 
 🟢 FIXES
-✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy
+✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items
 ✔️ CONSUMABLES: Fixed crisps. Fixed water bottle. Fixed sandwich. Fixed Twerks and Snikkel Candy bars
 ✔️ PHONE: Fixed photos now saving in gallery.
 ✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
@@ -27,9 +29,11 @@ Version 2.01
 ✔️ OUTLAW PERFORMANCE: Fixed boss menu
 ✔️ REBEL TOWING: Fixed boss menu
 ✔️ RTX CARRY: Fixed notification error
+✔️ MINING: Deleted "scrapmetal" as it was suppose to be "metalscrap" - Sorry for the inconvenience.
+✔️ LICENSES: Temporarily fixed dmv license issues.
 
 🔴 REMOVED
-❌ KEYBINDING: Removed statistics(VMS GYM) keybind
+❌ KEYBINDING: Removed statistics(VMS GYM) keybind (WIP)
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
