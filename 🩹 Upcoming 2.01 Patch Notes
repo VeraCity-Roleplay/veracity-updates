@@ -4,7 +4,8 @@ Version 2.01
 •  SHOP: Added Dons Country Store as a shop!
 •  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
 •  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
-•  MOTORCYCLE LICENSE IMAGE: Added image for license (WIP)
+•  LICENSES: Added image for multiple licenses (WIP)
+•  ITEMS: Added cardholder. Has 25 spaces for various cards.
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -13,10 +14,12 @@ Version 2.01
 •  OX LIB: Updated
 •  WASABI BRIDGE: Updated
 •  REDUTZU-MDT: Updated
-•  RP EMOTES: Updated to 1.52
+•  RP EMOTES: Updated to 1.52 - New emotes added
 •  ITEM "CARDHOLDER": Modified slots to 25. Added acceptance of Insurance, Car Registration, Health Insurance, and Home Insurance cards.
 •  MINER JOB: Modified chances of items during job. Modified payout
 •  OILRIG JOB: Modified chances of items on completion of job. Modified payout
+•  MULTICHARACTER: Updated - Fixed the deleting of characters issue
+•  VEHICLES: Modified Emperor
 
 🟢 FIXES
 ✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items
