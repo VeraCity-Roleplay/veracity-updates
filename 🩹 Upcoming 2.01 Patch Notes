@@ -6,7 +6,8 @@ Version 2.01
 •  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
 •  LICENSES: Added image for multiple licenses (WIP)
 •  ITEMS: Added cardholder. Has 50 spaces for various cards. Re-added car radio for install kits
-•  DIVING: Re-added diving items/images
+•  DIVING: Re-added diving items
+•  MECHANICS: Added car radio to mechanic shops
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -25,9 +26,11 @@ Version 2.01
 •  OX TARGET: Updated
 •  GYM: Modified remove stamina usage for treadmill
 •  GANG SYSTEM: Modified notoriety points for actions and gang garage/stash/locker notoriety amounts
+•  RTX TV: Updated
+•  IS UI & LIBRARY: Updated
 
 🟢 FIXES
-✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items
+✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items. Fixed Beekeeping images. Fixed diving images
 ✔️ CONSUMABLES: Fixed crisps. Fixed water bottle. Fixed sandwich. Fixed Twerks and Snikkel Candy bars
 ✔️ PHONE: Fixed photos now saving in gallery.
 ✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
