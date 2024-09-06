@@ -5,7 +5,7 @@ Version 2.01
 •  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
 •  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
 •  LICENSES: Added image for multiple licenses (WIP)
-•  ITEMS: Added cardholder. Has 50 spaces for various cards.
+•  ITEMS: Added cardholder. Has 50 spaces for various cards. Re-added car radio for install kits
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -19,7 +19,7 @@ Version 2.01
 •  MINER JOB: Modified chances of items during job. Modified payout
 •  OILRIG JOB: Modified chances of items on completion of job. Modified payout
 •  MULTICHARACTER: Updated - Fixed the deleting of characters issue
-•  VEHICLES: Modified Emperor
+•  VEHICLES: Modified Emperor. Modified Bison
 •  QBX MANAGEMENT: Updated
 •  OX TARGET: Updated
 •  GYM: Modified remove stamina usage for treadmill
@@ -37,6 +37,7 @@ Version 2.01
 ✔️ RTX CARRY: Fixed notification error
 ✔️ MINING: Deleted "scrapmetal" as it was suppose to be "metalscrap" - Sorry for the inconvenience.
 ✔️ LICENSES: Temporarily fixed dmv license issues.
+✔️ CRYPTO: Fixed illegal crypto guy
 
 🔴 REMOVED
 ❌ KEYBINDING: Removed statistics(VMS GYM) keybind (WIP)
