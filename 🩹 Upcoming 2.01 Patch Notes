@@ -5,7 +5,7 @@ Version 2.01
 •  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
 •  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
 •  LICENSES: Added image for multiple licenses (WIP)
-•  ITEMS: Added cardholder. Has 25 spaces for various cards.
+•  ITEMS: Added cardholder. Has 50 spaces for various cards.
 
 🟡 CHANGED
 •  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
@@ -20,6 +20,9 @@ Version 2.01
 •  OILRIG JOB: Modified chances of items on completion of job. Modified payout
 •  MULTICHARACTER: Updated - Fixed the deleting of characters issue
 •  VEHICLES: Modified Emperor
+•  QBX MANAGEMENT: Updated
+•  OX TARGET: Updated
+•  GYM: Modified remove stamina usage for treadmill
 
 🟢 FIXES
 ✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items
@@ -37,6 +40,7 @@ Version 2.01
 
 🔴 REMOVED
 ❌ KEYBINDING: Removed statistics(VMS GYM) keybind (WIP)
+❌ MLO: Removed Sandy Scrapyard
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
