@@ -4,19 +4,27 @@ Version 2.02
 •  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
 
 🟡 CHANGED
+•  QBX MANAGEMENT: Updated
+•  RENEWED WEATHERSYNC: Updated. Changed time values - 2day/2night 8 hour cycle.
+•  OX MYSQL: Updated
 •  OX INVENTORY: Modified bee honey weight from 453 to 28
 •  MDT: Updated
 •  PIXEL CONSUMABLES: Updated
 •  CASINO: Updated. Modified daily payout limit
 •  BCS LICENSE MANAGER: Updated with non items
-•  LATION DETECTING: Updated.
+•  LATION DETECTING: Updated. Tidied up notification
 •  BEE KEEPING: Modified hobby to make it more of a weekly activity
 •  ENVI MEDIC: Modified to where players can call for themselves or others using PlayerID
 •  WASABI BRIDGE: Updated
+•  LATION LAUNDERING: Updated
+•  RENEWED LIB: Updated
+•  SD LIB: Updated
+•  RENEWED KEYS: Updated. Tidied up notification
 •  ADVANCED PARKING: Added cdn-fuel export in. (Hopefully fuel is saved for parked vehicles now)
 
 🟢 FIXES
 ✔️ IMAGES: Fixed duct tape, jerry can, and syphoning kit. Fixed gold coin
+✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,  
 
 🔴 REMOVED
 ❌ --: --
