@@ -2,6 +2,7 @@ Version 2.02
 
 🟣 ADDED
 •  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
+•  PAXTON (JOB): Added boss menu
 
 🟡 CHANGED
 •  QBX MANAGEMENT: Updated
@@ -20,11 +21,14 @@ Version 2.02
 •  RENEWED LIB: Updated
 •  SD LIB: Updated
 •  RENEWED KEYS: Updated. Tidied up notification
+•  JG DEALERSHIPS: Updated.
+•  JG MECHANIC: Updated. Framework and Bank connected with jobs
 •  ADVANCED PARKING: Added cdn-fuel export in. (Hopefully fuel is saved for parked vehicles now)
 
 🟢 FIXES
-✔️ IMAGES: Fixed duct tape, jerry can, and syphoning kit. Fixed gold coin
-✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,  
+✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
+✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,
+✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
 
 🔴 REMOVED
 ❌ --: --
