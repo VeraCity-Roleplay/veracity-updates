@@ -29,6 +29,7 @@ Version 2.02
 ✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
 ✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,
 ✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
+✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
 
 🔴 REMOVED
 ❌ --: --
