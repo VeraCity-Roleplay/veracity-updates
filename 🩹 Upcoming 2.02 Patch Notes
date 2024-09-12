@@ -11,7 +11,7 @@ Version 2.02
 •  OX INVENTORY: Modified bee honey weight from 453 to 28
 •  MDT: Updated
 •  PIXEL CONSUMABLES: Updated
-•  CASINO: Updated. Modified daily payout limit
+•  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
 •  BCS LICENSE MANAGER: Updated with non items
 •  LATION DETECTING: Updated. Tidied up notification
 •  BEE KEEPING: Modified hobby to make it more of a weekly activity
@@ -23,16 +23,21 @@ Version 2.02
 •  RENEWED KEYS: Updated. Tidied up notification
 •  JG DEALERSHIPS: Updated.
 •  JG MECHANIC: Updated. Framework and Bank connected with jobs
-•  ADVANCED PARKING: Added cdn-fuel export in. (Hopefully fuel is saved for parked vehicles now)
+•  ADVANCED PARKING: Added cdn-fuel export in. Fuel now saves
+•  OILRIG JOB: Added more rewards
+•  GYM: Lowered add value time from 60 seconds to 30 seconds
+•  IS_LIB: Updated
+•  M INSURANCE / WASABI AMBULANCE: Modified health insurance check in from $500 to $750 deducted!
 
 🟢 FIXES
 ✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
 ✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,
 ✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
 ✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
+✔️ WASABI BRIDGE/AMBULANCE: Fixed bridge code for progress bar. Check in now working.
 
 🔴 REMOVED
 ❌ --: --
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  TICKETS: For ticket creators, made future tickets where they are able to upload files/images
