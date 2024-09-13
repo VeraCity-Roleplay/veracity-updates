@@ -18,7 +18,7 @@ Version 2.02
 •  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
 •  BCS LICENSE MANAGER: Updated with non items
 •  LATION DETECTING: Updated. Tidied up notification. Added another soil type for detecting!
-•  BEE KEEPING: Modified hobby to make it more of a weekly activity
+•  BEE KEEPING: Modified hobby to make it more of a weekly activity. Changed Max amount of houses/hives an individual player can have placed down at any time. Hives = 1. Houses = 5
 •  ENVI MEDIC: Modified to where players can call for themselves or others using PlayerID
 •  WASABI BRIDGE: Updated
 •  LATION LAUNDERING: Updated
@@ -35,6 +35,8 @@ Version 2.02
 •  MLO: Updated Vanilla Unicorn
 •  M INSURANCE: Modified Society add code for banking
 •  VEHICLES: Updated 204s Restomod Zilla
+•  LB PHONE: Changed valet to use same model as JG Advanced Garages
+•  CONSUMABLES: Modified to lock inventory when using consumable
 
 🟢 FIXES
 ✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
