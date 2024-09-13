@@ -4,6 +4,9 @@ Version 2.02
 •  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
 •  PAXTON (JOB): Added boss menu
 •  OUTLAW PERFORMANCE (JOB): Added Outlaw Performance Van
+•  BOOMBOX: Added permanent jukebox to Zeus Gym
+•  VMS GYM: Added notification to inform citizen that they are no longer feeling the effects of Stamina or Protein boost.
+•  METAL DETECTING / PAWNSHOP: Added old broken samdung & uphone phones for discovery and selling
 
 🟡 CHANGED
 •  QBX MANAGEMENT: Updated
@@ -38,6 +41,8 @@ Version 2.02
 ✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
 ✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
 ✔️ WASABI BRIDGE/AMBULANCE: Fixed bridge code for progress bar. Check in now working.
+✔️ CRIMINAL ACTIVITY: Fixed up notifications for a particular criminal activity.
+✔️ SERVER MODERATION: Fixed various server moderation groups to access admin menu (discord perms)
 
 🔴 REMOVED
 ❌ --: --
