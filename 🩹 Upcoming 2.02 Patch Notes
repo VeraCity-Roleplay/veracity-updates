@@ -3,13 +3,14 @@ Version 2.02
 🟣 ADDED
 •  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
 •  PAXTON (JOB): Added boss menu
+•  OUTLAW PERFORMANCE (JOB): Added Outlaw Performance Van
 
 🟡 CHANGED
 •  QBX MANAGEMENT: Updated
 •  RENEWED WEATHERSYNC: Updated. Changed time values - 2day/2night 8 hour cycle.
 •  OX MYSQL: Updated
 •  OX INVENTORY: Modified bee honey weight from 453 to 28
-•  MDT: Updated
+•  MDT: Updated. Due to my handy dandy work, I have fixed the labeling of licenses, hid certain ones from the list and restricted granting of licenses
 •  PIXEL CONSUMABLES: Updated
 •  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
 •  BCS LICENSE MANAGER: Updated with non items
@@ -28,10 +29,12 @@ Version 2.02
 •  GYM: Lowered add value time from 60 seconds to 30 seconds
 •  IS_LIB: Updated
 •  M INSURANCE / WASABI AMBULANCE: Modified health insurance check in from $500 to $750 deducted!
+•  MLO: Updated Vanilla Unicorn
+•  M INSURANCE: Modified Society add code for banking
 
 🟢 FIXES
 ✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
-✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki,
+✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki, VCPD Crown Victorian, SAFR Velocity Engine, SAFR 2022 Small Ladder Truck (POSSIBLY), SAFR Mid Mount Ladder (POSSIBLY), SAFR 2020 FireExplorer (POSSIBLY),
 ✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
 ✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
 ✔️ WASABI BRIDGE/AMBULANCE: Fixed bridge code for progress bar. Check in now working.
