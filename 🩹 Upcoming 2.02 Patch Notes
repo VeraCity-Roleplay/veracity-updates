@@ -17,7 +17,7 @@ Version 2.02
 •  PIXEL CONSUMABLES: Updated
 •  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
 •  BCS LICENSE MANAGER: Updated with non items
-•  LATION DETECTING: Updated. Tidied up notification
+•  LATION DETECTING: Updated. Tidied up notification. Added another soil type for detecting!
 •  BEE KEEPING: Modified hobby to make it more of a weekly activity
 •  ENVI MEDIC: Modified to where players can call for themselves or others using PlayerID
 •  WASABI BRIDGE: Updated
@@ -29,11 +29,12 @@ Version 2.02
 •  JG MECHANIC: Updated. Framework and Bank connected with jobs
 •  ADVANCED PARKING: Added cdn-fuel export in. Fuel now saves
 •  OILRIG JOB: Added more rewards
-•  GYM: Lowered add value time from 60 seconds to 30 seconds
+•  GYM: Lowered add value time from 60 seconds to 30 seconds. Modified sit-ups to add condition levels instead of strength. Modified values of all workouts
 •  IS_LIB: Updated
 •  M INSURANCE / WASABI AMBULANCE: Modified health insurance check in from $500 to $750 deducted!
 •  MLO: Updated Vanilla Unicorn
 •  M INSURANCE: Modified Society add code for banking
+•  VEHICLES: Updated 204s Restomod Zilla
 
 🟢 FIXES
 ✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
@@ -45,7 +46,7 @@ Version 2.02
 ✔️ SERVER MODERATION: Fixed various server moderation groups to access admin menu (discord perms)
 
 🔴 REMOVED
-❌ --: --
+❌ OKOK: Removed Contracts & Requests
 
 🔵 DISCORDIA/WEBSITE
 •  TICKETS: For ticket creators, made future tickets where they are able to upload files/images
