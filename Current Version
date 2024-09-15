@@ -1,62 +1,58 @@
-Version 2.01
+Version 2.02
 
 🟣 ADDED
-•  SHOP: Added Dons Country Store as a shop!
-•  MLO: Added BarnStash, Harmony Dealership, Harmony Mechanic
-•  RADIAL MENU: Added Skills category to radial menu. Added personal skills & metal detecting skills
-•  LICENSES: Added image for multiple licenses
-•  ITEMS: Added cardholder. Has 50 spaces for various cards. Re-added car radio for install kits
-•  DIVING: Re-added diving items
-•  MECHANICS: Added car radio to mechanic shops
+•  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
+•  PAXTON (JOB): Added boss menu
+•  OUTLAW PERFORMANCE (JOB): Added Outlaw Performance Van
+•  BOOMBOX: Added permanent jukebox to Zeus Gym
+•  VMS GYM: Added notification to inform citizen that they are no longer feeling the effects of Stamina or Protein boost.
+•  METAL DETECTING / PAWNSHOP: Added old broken samdung & uphone phones for discovery and selling
 
 🟡 CHANGED
-•  BACKPACK SHOPS: Added backpack store ped in Paleto & Grapeseed clothing shops. We will continue to add more as time goes on!
-•  QBX CORE: Updated
-•  OX_INVENTORY: Updated. Changed weights of insurance cards to 1. Changed weight of stone from 2000 to 1800
-•  OX LIB: Updated
-•  WASABI BRIDGE: Updated
-•  REDUTZU-MDT: Updated
-•  RP EMOTES: Updated to 1.52 - New emotes added
-•  ITEM "CARDHOLDER": Modified slots to 25. Added acceptance of Insurance, Car Registration, Health Insurance, and Home Insurance cards.
-•  MINER JOB: Modified chances of items during job. Modified payout
-•  OILRIG JOB: Modified chances of items on completion of job. Modified payout
-•  MULTICHARACTER: Updated - Fixed the deleting of characters issue
-•  VEHICLES: Modified Emperor. Modified Bison
 •  QBX MANAGEMENT: Updated
-•  OX TARGET: Updated
-•  GYM: Modified remove stamina usage for treadmill
-•  GANG SYSTEM: Modified notoriety points for actions and gang garage/stash/locker notoriety amounts
-•  RTX TV: Updated
-•  IS UI & LIBRARY: Updated
-•  BEEKEEPING: Changed decay amount and rate for Bee Hive due to it dissappearing to quickly.
-•  POPULATION DENSITY: Modified how much traffic and peds(locals) there are
-•  LOCKPICK: Removed from YouTool. They are meant to be crafted.
-•  JOB FORMS: Added job form management for Outlaw Performance and Rebel Towing. More to come soon!
-•  LB PHONE: Updated
+•  RENEWED WEATHERSYNC: Updated. Changed time values - 2day/2night 8 hour cycle.
+•  OX MYSQL: Updated
+•  OX INVENTORY: Modified bee honey weight from 453 to 28
+•  MDT: Updated. Due to my handy dandy work, I have fixed the labeling of licenses, hid certain ones from the list and restricted granting of licenses
+•  PIXEL CONSUMABLES: Updated
+•  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
+•  BCS LICENSE MANAGER: Updated with non items
+•  LATION DETECTING: Updated. Tidied up notification. Added another soil type for detecting!
+•  BEE KEEPING: Modified hobby to make it more of a weekly activity. Changed Max amount of houses/hives an individual player can have placed down at any time. Hives = 5. Houses = 1
+•  ENVI MEDIC: Modified to where players can call for themselves or others using PlayerID
+•  WASABI BRIDGE: Updated
+•  LATION LAUNDERING: Updated
+•  RENEWED LIB: Updated
+•  SD LIB: Updated
+•  RENEWED KEYS: Updated. Tidied up notification
+•  JG DEALERSHIPS: Updated.
+•  JG MECHANIC: Updated. Framework and Bank connected with jobs
+•  ADVANCED PARKING: Added cdn-fuel export in. Fuel now saves
+•  OILRIG JOB: Added more rewards
+•  GYM: Lowered add value time from 60 seconds to 30 seconds. Modified sit-ups to add condition levels instead of strength. Modified values of all workouts
+•  IS_LIB: Updated
+•  M INSURANCE / WASABI AMBULANCE: Modified health insurance check in from $500 to $750 deducted!
+•  MLO: Updated Vanilla Unicorn. Updated UsedaTon Pawnshop
+•  M INSURANCE: Modified Society add code for banking
+•  VEHICLES: Updated 204s Restomod Zilla
+•  LB PHONE: Updated. Changed valet to use same model as JG Advanced Garages
+•  CONSUMABLES: Modified to lock inventory when using consumable
 
 🟢 FIXES
-✔️ IMAGES: Fixed sandwich. Fixed water bottle. Fixed backpack. Fixed Twerks and Snikkel Candy. Fixed mining items. Fixed Beekeeping images. Fixed diving images
-✔️ CONSUMABLES: Fixed crisps. Fixed water bottle. Fixed sandwich. Fixed Twerks and Snikkel Candy bars
-✔️ PHONE: Fixed photos now saving in gallery.
-✔️ MLO: Fixed Dons Country Store from being able to walk through the walls.
-✔️ VANILLA UNICORN: Fixed boss menu
-✔️ DEALERSHIPS: Fixed license check for purchasing
-✔️ SAFR: Fixed boss menu
-✔️ OUTLAW PERFORMANCE: Fixed boss menu
-✔️ REBEL TOWING: Fixed boss menu
-✔️ RTX CARRY: Fixed notification error
-✔️ MINING: Deleted "scrapmetal" as it was suppose to be "metalscrap" - Sorry for the inconvenience.
-✔️ LICENSES: Temporarily fixed dmv license issues.
-✔️ CRYPTO: Fixed illegal crypto guy
-✔️ DIVING: Fixed
-✔️ REGISTRATION/INSURANCE: Fixed
+✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
+✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki
+✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
+✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
+✔️ WASABI BRIDGE/AMBULANCE: Fixed bridge code for progress bar. Check in now working.
+✔️ CRIMINAL ACTIVITY: Fixed up notifications for a particular criminal activity.
+✔️ SERVER MODERATION: Fixed various server moderation groups to access admin menu (discord perms)
+✔️ MDT: Fixed being able to open profiles
 
 🔴 REMOVED
-❌ KEYBINDING: Removed statistics(VMS GYM) keybind (WIP)
-❌ MLO: Removed Sandy Scrapyard
+❌ OKOK: Removed Contracts & Requests
 
 🔵 DISCORDIA/WEBSITE
-•  DISCORD MANAGEMENT: Lots of changes to discord. Still working on role permissions
+•  TICKETS: For ticket creators, made future tickets where they are able to upload files/images
 
 *Please report bugs in the discordias #🐛bug-crash-reports🚧
 *Report any game breaking/exploit events in a ticket!
