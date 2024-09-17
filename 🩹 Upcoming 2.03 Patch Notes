@@ -1,16 +1,18 @@
 Version 2.03
 
 🟣 ADDED
-•  --: --
+•  BOSS MENU: Added boss menu for Blazing Ink Tattoos
 
 🟡 CHANGED
-•  --: --
+•  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
+•  CASINO: Tidied up some notifications
+•  REBEL TOWING: Changed garage type to owned. Added 2x of each current Rebel Towing vehicle to job garage.
 
 🟢 FIXES
-✔️ --: --
+✔️ TATTOOS: Fixed Female tattoo preview
 
 🔴 REMOVED
-❌ --: --
+❌ REBEL TOWING: Removed multiple vehicles.
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
