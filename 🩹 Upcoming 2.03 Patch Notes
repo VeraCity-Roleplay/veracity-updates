@@ -2,14 +2,21 @@ Version 2.03
 
 🟣 ADDED
 •  BOSS MENU: Added boss menu for Blazing Ink Tattoos
+•  CONTRACT: Added contract item for vehicle transfers
+•  BILLING: Added new billing system. Works with banking
 
 🟡 CHANGED
 •  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
-•  CASINO: Tidied up some notifications
+•  CASINO: Tidied up some notifications. Changed mystery/random casino prizes to various casino chip winnings.
 •  REBEL TOWING: Changed garage type to owned. Added 2x of each current Rebel Towing vehicle to job garage.
+•  JG MECHANIC: Updated
+•  BANKING: Added progress bar icons
+•  VANILLA UNICORN: Updated job script. Added V1 foods to Vanilla Unicorn.
+•  CONSUMABLES: Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
+✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank
 
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
