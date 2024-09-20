@@ -14,6 +14,8 @@ Version 2.03
 •  BANKING: Added progress bar icons
 •  VANILLA UNICORN: Updated job script. Added V1 foods and drinks to Vanilla Unicorn.
 •  CONSUMABLES: Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
+•  EMS MDT: Updated
+•  LEO MDT: Fixed up coding and locked in registering licenses
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
@@ -26,6 +28,7 @@ Version 2.03
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
 ❌ ILLENIUM APPEARANCE: Removed old clothing peds from Richman area
+❌ VEHICLES: Removed Evoque
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
