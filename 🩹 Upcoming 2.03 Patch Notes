@@ -23,19 +23,23 @@ Version 2.03
 •  BEEKEEPING: Changed gaining honey/wax from 4 hours to 2 hours. Changed decay rate to every 4 hours
 •  METAL DETECTING: Updated
 •  DIVING: Updated
+•  CS JOBFORM: Updated
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
 ✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
-✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Fixed Restomod Zilla
+✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader
+✔️ WEAPON OPTIMIZATION: Optimized?
 ✔️ PROP OPTIMIZATION: Fixed fresh food props
 ✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
 ✔️ RADIAL MENU: Fixed nui glitch
+✔️ JOB FORM: Fixed applicant images not showing
 
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
 ❌ ILLENIUM APPEARANCE: Removed old clothing peds from Richman area
 ❌ VEHICLES: Removed Evoque
+❌ FIVEM-SCENES: Removed due to not working / old.
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
