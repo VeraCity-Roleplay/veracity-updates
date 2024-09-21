@@ -16,11 +16,18 @@ Version 2.03
 •  CONSUMABLES: Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
 •  EMS MDT: Updated
 •  LEO MDT: Fixed up coding and locked in registering licenses
+•  CONSUMABLES: Updated
+•  DRIVESCHOOL: Updated
+•  MLO: Updated Impound
+•  247 ROBBERY: Updated
+•  BEEKEEPING: Changed gaining honey/wax from 4 hours to 2 hours. Changed decay rate to every 4 hours
+•  METAL DETECTING: Updated
+•  DIVING: Updated
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
-✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank
-✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed
+✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
+✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Fixed Restomod Zilla
 ✔️ PROP OPTIMIZATION: Fixed fresh food props
 ✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
 ✔️ RADIAL MENU: Fixed nui glitch
