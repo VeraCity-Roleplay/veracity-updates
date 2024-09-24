@@ -5,6 +5,7 @@ Version 2.03
 •  CONTRACT: Added contract item for vehicle transfers
 •  BILLING: Added new billing system. Works with banking
 •  XT WALKINGSTYLES: Added new walking system. Use radial menu to apply it. Each character now saves walking style vs every player.
+•  HUNTING: Added new hunting resource. Animal callers, scent removers, baits, quests, and being able to transport animals via vehicles for butcher.
 
 🟡 CHANGED
 •  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
@@ -13,7 +14,7 @@ Version 2.03
 •  JG MECHANIC: Updated
 •  BANKING: Added progress bar icons
 •  VANILLA UNICORN: Updated job script. Added V1 foods and drinks to Vanilla Unicorn.
-•  CONSUMABLES: Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
+•  CONSUMABLES: Consumables working 100% now. Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
 •  EMS MDT: Updated
 •  LEO MDT: Fixed up coding and locked in registering licenses
 •  CONSUMABLES: Updated
@@ -34,6 +35,7 @@ Version 2.03
 ✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
 ✔️ RADIAL MENU: Fixed nui glitch
 ✔️ JOB FORM: Fixed applicant images not showing
+✔️ DRIVE SCHOOL: Fixed question being incorrect due to not showing correct answer. We also modified one of the questions to make this work.
 
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
@@ -42,4 +44,4 @@ Version 2.03
 ❌ FIVEM-SCENES: Removed due to not working / old.
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  NO PLACE LIKE HOME SUPPORTERS: They will now receive the 3 extra character slots benefits. If they stop paying monthly they will not lose the three extra characters, but they will be unavaible till they purchase the subscription again or buy permanent slots.
