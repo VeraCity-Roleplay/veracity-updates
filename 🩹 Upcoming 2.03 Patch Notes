@@ -6,6 +6,7 @@ Version 2.03
 •  BILLING: Added new billing system. Works with banking
 •  XT WALKINGSTYLES: Added new walking system. Use radial menu to apply it. Each character now saves walking style vs every player.
 •  HUNTING: Added new hunting resource. Animal callers, scent removers, baits, quests, and being able to transport animals via vehicles for butcher.
+•  NEWSPAPER JOB: Added necessary items for newspaper job. Should be working now.
 
 🟡 CHANGED
 •  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
@@ -25,17 +26,19 @@ Version 2.03
 •  METAL DETECTING: Updated
 •  DIVING: Updated
 •  CS JOBFORM: Updated
+•  FREELANCE MINING: Modified items to decay again. Was not set at the beginning (like it should of been)
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
 ✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
-✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader
+✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader. Optimized BCSOs Crown Vic, 13 Explorer, 15 Expedition
 ✔️ WEAPON OPTIMIZATION: Optimized?
 ✔️ PROP OPTIMIZATION: Fixed fresh food props
 ✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
 ✔️ RADIAL MENU: Fixed nui glitch
 ✔️ JOB FORM: Fixed applicant images not showing
 ✔️ DRIVE SCHOOL: Fixed question being incorrect due to not showing correct answer. We also modified one of the questions to make this work.
+✔️ AMMUNATION: Fixed ped not spawning at 7174 North Rockford Drive
 
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
