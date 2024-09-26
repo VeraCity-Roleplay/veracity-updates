@@ -22,16 +22,27 @@ Version 2.03
 •  DRIVESCHOOL: Updated
 •  MLO: Updated Impound
 •  247 ROBBERY: Updated
-•  BEEKEEPING: Changed gaining honey/wax from 4 hours to 2 hours. Changed decay rate to every 4 hours
+•  BEEKEEPING: Updated for security events. Modified gains and decay rate (longer lasting)
 •  METAL DETECTING: Updated
 •  DIVING: Updated
 •  CS JOBFORM: Updated
 •  FREELANCE MINING: Modified items to decay again. Was not set at the beginning (like it should of been)
+•  SCULLY HOLSTER: Updated
+•  FIRE TOOLS: Updated (not sure if we needed to)
+•  QBX MANAGEMENT: Updated
+•  RENEWED LIB: Updated
+•  LATION CHOPSHOP: Updated
+•  LATION WEED: Updated
+•  OX LIB: Updated
+•  LATION LAUNDERING: Updated
+•  ADVANCED GARAGES: Updated. Fixed all ped coordinates (if one is off please report it)
+•  CAR PLAY (CAR RADIO): Updated. Changed key from Q to M so emergency vehicles can have music playing when in downtime.
+•  FISHING: Updated.
 
 🟢 FIXES
 ✔️ TATTOOS: Fixed Female tattoo preview
 ✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
-✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader. Optimized BCSOs Crown Vic, 13 Explorer, 15 Expedition
+✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader. Optimized BCSOs MPower Pack
 ✔️ WEAPON OPTIMIZATION: Optimized?
 ✔️ PROP OPTIMIZATION: Fixed fresh food props
 ✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
@@ -39,6 +50,10 @@ Version 2.03
 ✔️ JOB FORM: Fixed applicant images not showing
 ✔️ DRIVE SCHOOL: Fixed question being incorrect due to not showing correct answer. We also modified one of the questions to make this work.
 ✔️ AMMUNATION: Fixed ped not spawning at 7174 North Rockford Drive
+✔️ VMS_GYM: Finally fixed removing keybinding of stats. Can now see them using F1 MENU (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
+✔️ RADIAL: Moved Radial Menu key from Z to F1 (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
+✔️ INVENTORY: Fixed all current cards being able to go in cardholder
+✔️ SAFR JOB RELATED: Fixed various safr related issues
 
 🔴 REMOVED
 ❌ REBEL TOWING: Removed multiple vehicles.
