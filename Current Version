@@ -1,58 +1,68 @@
-Version 2.02
+Version 2.03
 
 🟣 ADDED
-•  LATION DETECTING: Added Treasure Chest, Treasure Chest Key, Gold Coin, Samdung & Uphone to detecting. These items are also sellable.
-•  PAXTON (JOB): Added boss menu
-•  OUTLAW PERFORMANCE (JOB): Added Outlaw Performance Van
-•  BOOMBOX: Added permanent jukebox to Zeus Gym
-•  VMS GYM: Added notification to inform citizen that they are no longer feeling the effects of Stamina or Protein boost.
-•  METAL DETECTING / PAWNSHOP: Added old broken samdung & uphone phones for discovery and selling
+•  BOSS MENU: Added boss menu for Blazing Ink Tattoos
+•  CONTRACT: Added contract item for vehicle transfers
+•  BILLING: Added new billing system. Works with banking
+•  XT WALKINGSTYLES: Added new walking system. Use radial menu to apply it. Each character now saves walking style vs every player.
+•  HUNTING: Added new hunting resource. Animal callers, scent removers, baits, quests, and being able to transport animals via vehicles for butcher.
+•  NEWSPAPER JOB: Added necessary items for newspaper job. Should be working now.
 
 🟡 CHANGED
+•  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
+•  CASINO: Tidied up some notifications. Changed mystery/random casino prizes to various casino chip winnings.
+•  REBEL TOWING: Changed garage type to owned. Added 2x of each current Rebel Towing vehicle to job garage.
+•  JG MECHANIC: Updated
+•  BANKING: Added progress bar icons
+•  VANILLA UNICORN: Updated job script. Added V1 foods and drinks to Vanilla Unicorn.
+•  CONSUMABLES: Consumables working 100% now. Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
+•  EMS MDT: Updated
+•  LEO MDT: Fixed up coding and locked in registering licenses
+•  CONSUMABLES: Updated
+•  DRIVESCHOOL: Updated
+•  MLO: Updated Impound
+•  247 ROBBERY: Updated
+•  BEEKEEPING: Updated for security events. Modified gains and decay rate (longer lasting)
+•  METAL DETECTING: Updated
+•  DIVING: Updated
+•  CS JOBFORM: Updated
+•  FREELANCE MINING: Modified items to decay again. Was not set at the beginning (like it should of been)
+•  SCULLY HOLSTER: Updated
+•  FIRE TOOLS: Updated (not sure if we needed to)
 •  QBX MANAGEMENT: Updated
-•  RENEWED WEATHERSYNC: Updated. Changed time values - 2day/2night 8 hour cycle.
-•  OX MYSQL: Updated
-•  OX INVENTORY: Modified bee honey weight from 453 to 28
-•  MDT: Updated. Due to my handy dandy work, I have fixed the labeling of licenses, hid certain ones from the list and restricted granting of licenses
-•  PIXEL CONSUMABLES: Updated
-•  CASINO: Updated. Modified daily payout limit. Modified blackjack %s from dealer on various tables
-•  BCS LICENSE MANAGER: Updated with non items
-•  LATION DETECTING: Updated. Tidied up notification. Added another soil type for detecting!
-•  BEE KEEPING: Modified hobby to make it more of a weekly activity. Changed Max amount of houses/hives an individual player can have placed down at any time. Hives = 5. Houses = 1
-•  ENVI MEDIC: Modified to where players can call for themselves or others using PlayerID
-•  WASABI BRIDGE: Updated
-•  LATION LAUNDERING: Updated
 •  RENEWED LIB: Updated
-•  SD LIB: Updated
-•  RENEWED KEYS: Updated. Tidied up notification
-•  JG DEALERSHIPS: Updated.
-•  JG MECHANIC: Updated. Framework and Bank connected with jobs
-•  ADVANCED PARKING: Added cdn-fuel export in. Fuel now saves
-•  OILRIG JOB: Added more rewards
-•  GYM: Lowered add value time from 60 seconds to 30 seconds. Modified sit-ups to add condition levels instead of strength. Modified values of all workouts
-•  IS_LIB: Updated
-•  M INSURANCE / WASABI AMBULANCE: Modified health insurance check in from $500 to $750 deducted!
-•  MLO: Updated Vanilla Unicorn. Updated UsedaTon Pawnshop
-•  M INSURANCE: Modified Society add code for banking
-•  VEHICLES: Updated 204s Restomod Zilla
-•  LB PHONE: Updated. Changed valet to use same model as JG Advanced Garages
-•  CONSUMABLES: Modified to lock inventory when using consumable
+•  LATION CHOPSHOP: Updated
+•  LATION WEED: Updated
+•  OX LIB: Updated
+•  LATION LAUNDERING: Updated
+•  ADVANCED GARAGES: Updated. Fixed all ped coordinates (if one is off please report it)
+•  CAR PLAY (CAR RADIO): Updated. Changed key from Q to M so emergency vehicles can have music playing when in downtime.
+•  FISHING: Updated.
 
 🟢 FIXES
-✔️ IMAGES: Fixed jerry can, and syphoning kit. Fixed gold coin. Fixed JG Mechanic Images
-✔️ VEHICLE OPTIMIZATION: 1978 F250, (VCPD) 2014 Kawasaki
-✔️ CDN-FUEL: Fixed fuel saving on parked/garaged vehicles
-✔️ ADVANCED GARAGES (DATABASE): Fixed default garage id. Now un-impounded vehicles will be sent there.
-✔️ WASABI BRIDGE/AMBULANCE: Fixed bridge code for progress bar. Check in now working.
-✔️ CRIMINAL ACTIVITY: Fixed up notifications for a particular criminal activity.
-✔️ SERVER MODERATION: Fixed various server moderation groups to access admin menu (discord perms)
-✔️ MDT: Fixed being able to open profiles
+✔️ TATTOOS: Fixed Female tattoo preview
+✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
+✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader. Optimized BCSOs MPower Pack
+✔️ WEAPON OPTIMIZATION: Optimized?
+✔️ PROP OPTIMIZATION: Fixed fresh food props
+✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
+✔️ RADIAL MENU: Fixed nui glitch
+✔️ JOB FORM: Fixed applicant images not showing
+✔️ DRIVE SCHOOL: Fixed question being incorrect due to not showing correct answer. We also modified one of the questions to make this work.
+✔️ AMMUNATION: Fixed ped not spawning at 7174 North Rockford Drive
+✔️ VMS_GYM: Finally fixed removing keybinding of stats. Can now see them using F1 MENU (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
+✔️ RADIAL: Moved Radial Menu key from Z to F1 (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
+✔️ INVENTORY: Fixed all current cards being able to go in cardholder
+✔️ SAFR JOB RELATED: Fixed various safr related issues
 
 🔴 REMOVED
-❌ OKOK: Removed Contracts & Requests
+❌ REBEL TOWING: Removed multiple vehicles.
+❌ ILLENIUM APPEARANCE: Removed old clothing peds from Richman area
+❌ VEHICLES: Removed Evoque
+❌ FIVEM-SCENES: Removed due to not working / old.
 
 🔵 DISCORDIA/WEBSITE
-•  TICKETS: For ticket creators, made future tickets where they are able to upload files/images
+•  NO PLACE LIKE HOME SUPPORTERS: They will now receive the 3 extra character slots benefits. If they stop paying monthly they will not lose the three extra characters, but they will be unavaible till they purchase the subscription again or buy permanent slots.
 
 *Please report bugs in the discordias #🐛bug-crash-reports🚧
 *Report any game breaking/exploit events in a ticket!
