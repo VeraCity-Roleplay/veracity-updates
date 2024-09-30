@@ -1,13 +1,18 @@
 Version 2.03
 
 🟣 ADDED
-•  --: --
+•  SHOPS: Added sandwhich to shops in main fridge
 
 🟡 CHANGED
-•  --: --
+•  INVENTORY: Fixed weights for smash&grab
+•  RPEMOTES: Updated. Changed handsup key to Y. Cancel is still X
+•  ADVANCED GARAGES: Updated
+•  OX INVENTORY ADDONS: Updated
+•  OX TARGET: Updated
+•  VMS HUD: Possibly moving cruise control key to LEFT CTRL
 
 🟢 FIXES
-✔️ --: --
+✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush
 
 🔴 REMOVED
 ❌ --: --
