@@ -3,6 +3,7 @@ Version 2.03
 🟣 ADDED
 •  SHOPS: Added sandwhich to shops in main fridge
 •  CARWASH: Made the car washes in Sandy (Route 68) useable now!
+•  BCSO EUP: Added training vest to females
 
 🟡 CHANGED
 •  INVENTORY: Fixed weights for smash&grab
@@ -11,9 +12,17 @@ Version 2.03
 •  OX INVENTORY ADDONS: Updated
 •  OX TARGET: Updated
 •  VMS HUD: Possibly moving cruise control key to LEFT CTRL
+•  WP-TAXI/TAXI APP: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
+•  ENVI MEDIC: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
+•  WK RADAR: Modified so front passenger can modify radar if needed.
+•  SCULLY HOLSTER: Updated
+•  D3MBA LIB: Updated
+•  JG MECHANIC: Updated
+•  COCAINE: Updated
+•  HEROIN: Updated
 
 🟢 FIXES
-✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush
+✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush, Fixed the rest of SAFR and Rebel Towing vehicles
 
 🔴 REMOVED
 ❌ --: --
