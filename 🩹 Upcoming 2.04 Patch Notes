@@ -41,7 +41,7 @@ Version 2.04
 # EXTRA NOTES:
 ## TAM FUEL
 TAM_Fuel is the most advanced fuel system developed for FiveM yet. Integrating seamlessly into your server, delivering an immersive fuel management experience for your players. Including, but not limited to, fuel types like Diesel & AVGas, Dynamic and realistic fuel consumption, fully custom props, preconfigured EV charger and fuel stations, blips, full localization, custom UI & more! Re-standardizing the fuel systems in FiveM and giving your players an experience they'll never forget.
-- Full Feature List
+__**Full Feature List**__
 - Realistic Fuel Consumption per vehicle RPM percentage & vehicle class.
 - Compatible with QBCore, QBox, ESX, NDCore and standalone (or adapt your own!)
 - Multiple Fuel Types (Gasoline, Diesel, AVGAS/JetFuel & Electric). We have plans to add more in the future!
