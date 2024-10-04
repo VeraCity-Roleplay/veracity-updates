@@ -26,6 +26,7 @@ Version 2.04
 •  OX INVENTORY: Modified Three Striped Damsel Fish from 30000g to 2721g weight. Modified Fishing Bait (Power Bait) from 1000g to 42g. Modified Fishing Bait (Shark Bait) from 5000g to 1000g. Modified Fishing Bait (Worm Bait) from 1000 to 50. Modified Fishing Bait (Lure Bait) from 5000g to 90g. Modified Fishing Bait (Chemical Bait) from 100g to 200g. Modified Blue Tang Fish from 30000g to 600g. Modified Three Striped Damsel Fish from 30000g to 2721g. Modified Six Line Wrasse Fish from 30000g to 3330g. Modified Royal Gramma Basslet Fish from 30000g to 5000g.
 •  DEALERSHIPS: Modified payments from 12 to 24 total payments
 •  RECYCLE: Modified recycling.. Still working on interior portion and values. Converted to ox_lib menu and made changes. Added a sell all button for recyclables.
+•  MINING: Modified 90% of mining targets.. Still working on this modified resource...
 
 🟢 FIXES
 ✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush, Fixed the rest of SAFR and Rebel Towing vehicles
