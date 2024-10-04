@@ -22,8 +22,8 @@ Version 2.04
 •  COCAINE: Updated
 •  HEROIN: Updated
 •  BINOCULARS: Added qbx small resource for binoculars. Added binoculars to hunting shop
-•  FISHING: Modified top potential payout by $25
-•  OX INVENTORY: Modified Three Striped Damsel Fish from 30000g to 2721g weight. Modified Fishing Bait (Power Bait) from 1000g to 42g. Modified Fishing Bait (Shark Bait) from 5000g to 1000g. Modified Fishing Bait (Worm Bait) from 1000 to 50. Modified Fishing Bait (Lure Bait) from 5000g to 90g. Modified Fishing Bait (Chemical Bait) from 100g to 200g. Modified Blue Tang Fish from 30000g to 600g. Modified Three Striped Damsel Fish from 30000g to 2721g. Modified Six Line Wrasse Fish from 30000g to 3330g. Modified Royal Gramma Basslet Fish from 30000g to 5000g.
+•  FISHING: Modified top potential payout by $25. Modified low potential payout by $15. Made top potential cash catch $500 instead of $100
+•  OX INVENTORY: Modified Three Striped Damsel Fish from 30000g to 2721g weight. Modified Fishing Bait (Power Bait) from 1000g to 42g. Modified Fishing Bait (Shark Bait) from 5000g to 1000g. Modified Fishing Bait (Worm Bait) from 1000 to 50. Modified Fishing Bait (Lure Bait) from 5000g to 90g. Modified Fishing Bait (Chemical Bait) from 100g to 200g. Modified Blue Tang Fish from 30000g to 600g. Modified Three Striped Damsel Fish from 30000g to 2721g. Modified Six Line Wrasse Fish from 30000g to 3330g. Modified Royal Gramma Basslet Fish from 30000g to 5000g. Modified Blue Devil Damsel Fish from 30000g to 2721g. Modified Ocellaris Clown Fish from 30000g to 2267g. Modified Blue Streak Cleaner Wrasse Fish from 30000g to 3628g.
 •  DEALERSHIPS: Modified payments from 12 to 24 total payments
 •  RECYCLE: Modified recycling.. Still working on interior portion and values. Converted to ox_lib menu and made changes. Added a sell all button for recyclables.
 •  MINING: Modified 90% of mining targets.. Still working on this modified resource...
@@ -31,13 +31,14 @@ Version 2.04
 🟢 FIXES
 ✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush, Fixed the rest of SAFR and Rebel Towing vehicles
 ✔️ CONSUMABLES: Fixed sandwich prop
-✔️ FISHING: Fixed missing Green Chromis Fish
+✔️ FISHING: Fixed missing Green Chromis Fish. Fixed missing Coral Beauty Fish.
+✔️ CLOTHING: Fixed removing multiple unused clothing areas (thanks ToxicPanda). Fixed 644 Morningwood clothing person not being correctly placed.
 
 🔴 REMOVED
 ❌ CDN-FUEL: In with the new, out with the old!
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  BUG REPORTING: Fixed it where members can reply and post images in bug reports.
 
 # EXTRA NOTES:
 ## TAM FUEL
