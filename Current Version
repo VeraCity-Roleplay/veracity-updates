@@ -1,68 +1,45 @@
-Version 2.03
+Version 2.04
 
 🟣 ADDED
-•  BOSS MENU: Added boss menu for Blazing Ink Tattoos
-•  CONTRACT: Added contract item for vehicle transfers
-•  BILLING: Added new billing system. Works with banking
-•  XT WALKINGSTYLES: Added new walking system. Use radial menu to apply it. Each character now saves walking style vs every player.
-•  HUNTING: Added new hunting resource. Animal callers, scent removers, baits, quests, and being able to transport animals via vehicles for butcher.
-•  NEWSPAPER JOB: Added necessary items for newspaper job. Should be working now.
+•  SHOPS: Added sandwhich to shops in main fridge
+•  CARWASH: Made the car washes in Sandy (Route 68) useable now!
+•  BCSO EUP: Added training vest to females
+•  TAM FUEL: New fuel system handled by state bags!
 
 🟡 CHANGED
-•  CDN-FUEL: Added progress bar icons for electric charging station and fuel station
-•  CASINO: Tidied up some notifications. Changed mystery/random casino prizes to various casino chip winnings.
-•  REBEL TOWING: Changed garage type to owned. Added 2x of each current Rebel Towing vehicle to job garage.
-•  JG MECHANIC: Updated
-•  BANKING: Added progress bar icons
-•  VANILLA UNICORN: Updated job script. Added V1 foods and drinks to Vanilla Unicorn.
-•  CONSUMABLES: Consumables working 100% now. Added Vanilla Unicorns Tacos, Sliders, Tots, and Nachos. Added Orange
-•  EMS MDT: Updated
-•  LEO MDT: Fixed up coding and locked in registering licenses
-•  CONSUMABLES: Updated
-•  DRIVESCHOOL: Updated
-•  MLO: Updated Impound
-•  247 ROBBERY: Updated
-•  BEEKEEPING: Updated for security events. Modified gains and decay rate (longer lasting)
-•  METAL DETECTING: Updated
-•  DIVING: Updated
-•  CS JOBFORM: Updated
-•  FREELANCE MINING: Modified items to decay again. Was not set at the beginning (like it should of been)
+•  INVENTORY: Fixed weights for smash&grab
+•  RPEMOTES: Updated. Changed handsup key to Y. Cancel is still X
+•  ADVANCED GARAGES: Updated
+•  OX INVENTORY ADDONS: Updated
+•  OX TARGET: Updated
+•  VMS HUD: Possibly moving cruise control key to LEFT CTRL
+•  WP-TAXI/TAXI APP: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
+•  ENVI MEDIC: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
+•  WK RADAR: Modified so front passenger can modify radar if needed.
 •  SCULLY HOLSTER: Updated
-•  FIRE TOOLS: Updated (not sure if we needed to)
-•  QBX MANAGEMENT: Updated
-•  RENEWED LIB: Updated
-•  LATION CHOPSHOP: Updated
-•  LATION WEED: Updated
-•  OX LIB: Updated
-•  LATION LAUNDERING: Updated
-•  ADVANCED GARAGES: Updated. Fixed all ped coordinates (if one is off please report it)
-•  CAR PLAY (CAR RADIO): Updated. Changed key from Q to M so emergency vehicles can have music playing when in downtime.
-•  FISHING: Updated.
+•  D3MBA LIB: Updated
+•  JG MECHANIC: Updated
+•  COCAINE: Updated
+•  HEROIN: Updated
+•  BINOCULARS: Added qbx small resource for binoculars. Added binoculars to hunting shop
+•  FISHING: Modified top potential payout by $25. Modified low potential payout by $15. Made top potential cash catch $500 instead of $100
+•  OX INVENTORY: Modified Three Striped Damsel Fish from 30000g to 2721g weight. Modified Fishing Bait (Power Bait) from 1000g to 42g. Modified Fishing Bait (Shark Bait) from 5000g to 1000g. Modified Fishing Bait (Worm Bait) from 1000 to 50. Modified Fishing Bait (Lure Bait) from 5000g to 90g. Modified Fishing Bait (Chemical Bait) from 100g to 200g. Modified Blue Tang Fish from 30000g to 600g. Modified Three Striped Damsel Fish from 30000g to 2721g. Modified Six Line Wrasse Fish from 30000g to 3330g. Modified Royal Gramma Basslet Fish from 30000g to 5000g. Modified Blue Devil Damsel Fish from 30000g to 2721g. Modified Ocellaris Clown Fish from 30000g to 2267g. Modified Blue Streak Cleaner Wrasse Fish from 30000g to 3628g.
+•  DEALERSHIPS: Modified payments from 12 to 24 total payments
+•  RECYCLE: Modified recycling.. Still working on interior portion and values. Converted to ox_lib menu and made changes. Added a sell all button for recyclables.
+•  MINING: Modified being able to open inventory while performing any of the mining procedures.
 
 🟢 FIXES
-✔️ TATTOOS: Fixed Female tattoo preview
-✔️ INVENTORY IMAGES: Fixed uvlight, bleach/cleaning wipes. Fixed multiple VU images! Fixed powerbank. Fixed citation, citation roll, and stopsticks.
-✔️ VEHICLE OPTIMIZATION: Fixed Rebel Towings c3pwrollback, ct660tow, lgc19flatbed. Optimized RestoMod Zilla and fixed dials. Optimized 204sHurricane, 204sOrsusHardtail, and 204sV10Crusader. Optimized BCSOs MPower Pack
-✔️ WEAPON OPTIMIZATION: Optimized?
-✔️ PROP OPTIMIZATION: Fixed fresh food props
-✔️ XT WALKINGSTYLES: Fixed walking style not being applied while drunk
-✔️ RADIAL MENU: Fixed nui glitch
-✔️ JOB FORM: Fixed applicant images not showing
-✔️ DRIVE SCHOOL: Fixed question being incorrect due to not showing correct answer. We also modified one of the questions to make this work.
-✔️ AMMUNATION: Fixed ped not spawning at 7174 North Rockford Drive
-✔️ VMS_GYM: Finally fixed removing keybinding of stats. Can now see them using F1 MENU (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
-✔️ RADIAL: Moved Radial Menu key from Z to F1 (YOU MUST CLEAR YOUR CLIENT KEYBINDINGS)
-✔️ INVENTORY: Fixed all current cards being able to go in cardholder
-✔️ SAFR JOB RELATED: Fixed various safr related issues
+✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush, Fixed the rest of SAFR and Rebel Towing vehicles
+✔️ CONSUMABLES: Fixed sandwich prop
+✔️ FISHING: Fixed missing Green Chromis Fish. Fixed missing Coral Beauty Fish.
+✔️ CLOTHING: Fixed removing multiple unused clothing areas (thanks ToxicPanda). Fixed 644 Morningwood clothing person not being correctly placed.
+✔️ MINING: Fixed being able to mine from same rock.
 
 🔴 REMOVED
-❌ REBEL TOWING: Removed multiple vehicles.
-❌ ILLENIUM APPEARANCE: Removed old clothing peds from Richman area
-❌ VEHICLES: Removed Evoque
-❌ FIVEM-SCENES: Removed due to not working / old.
+❌ CDN-FUEL: In with the new, out with the old!
 
 🔵 DISCORDIA/WEBSITE
-•  NO PLACE LIKE HOME SUPPORTERS: They will now receive the 3 extra character slots benefits. If they stop paying monthly they will not lose the three extra characters, but they will be unavaible till they purchase the subscription again or buy permanent slots.
+•  BUG REPORTING: Fixed it where members can reply and post images in bug reports. (Thanks Valcora!)
 
 *Please report bugs in the discordias #🐛bug-crash-reports🚧
 *Report any game breaking/exploit events in a ticket!
