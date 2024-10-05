@@ -1,0 +1,23 @@
+Version 2.05
+
+🟣 ADDED
+•  DETECTING: Added lockpick to detecting table
+•  K9: Added LEO K9 items (healing/food) K9 Medkit & K9 Food/Water
+
+🟡 CHANGED
+•  OX INVENTORY: Modified stone weight from 1800g to 907g
+•  WOOSH PD: Modified npc jailing to credit job instead of player
+•  JG MECHANIC: Modified handling files for engine swaps. Now overwrites with more realistic values.
+•  K9: Updated
+
+🟢 FIXES
+✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
+
+🔴 REMOVED
+❌ --: --
+
+🔵 DISCORDIA/WEBSITE
+•  --: --
+
+# --:
+## --
