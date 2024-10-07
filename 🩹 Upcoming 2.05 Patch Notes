@@ -1,13 +1,22 @@
 Version 2.05
 
 🟣 ADDED
-•  --: --
+•  DETECTING: Added lockpick to detecting table
+•  K9: Added LEO K9 items (healing/food) K9 Medkit & K9 Food/Water
+•  RAHE SPEAKERS: New boombox update. Now renamed to RAHE Speakers!
+•  TAM FUEL: Added diesel pump at Rebel Towing (possibly keeping or removing)
+•  FISHING: Added cryptobaggie within illegal fishing
 
 🟡 CHANGED
-•  --: --
+•  OX INVENTORY: Modified stone weight from 1800g to 907g
+•  WOOSH PD: Modified npc jailing to credit job instead of player
+•  JG MECHANIC: Modified handling files for engine swaps. Now overwrites with more realistic values. Modified base prices, value of vehicle multiplier, and part multiplier for mechanic.
+•  K9: Updated. Has new UI!
+•  BOWLING: Updated. New map/location is by K4MB1
+•  FREELANCE JOB LUMBERJACK: Updated
 
 🟢 FIXES
-✔️ --: --
+✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
 
 🔴 REMOVED
 ❌ --: --
@@ -15,5 +24,5 @@ Version 2.05
 🔵 DISCORDIA/WEBSITE
 •  --: --
 
-# --:
-## --
+# RAHE SPEAKERS:
+## Features
