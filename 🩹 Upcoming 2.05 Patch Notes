@@ -6,6 +6,7 @@ Version 2.05
 •  RAHE SPEAKERS: New boombox update. Now renamed to RAHE Speakers!
 •  TAM FUEL: Added diesel pump at Rebel Towing (possibly keeping or removing)
 •  FISHING: Added cryptobaggie within illegal fishing
+•  REAL OFFROAD: Added Sandy Garage (4010) to blacklist for real offroad. (Easier access for vehicles to get out)
 
 🟡 CHANGED
 •  OX INVENTORY: Modified stone weight from 1800g to 907g
@@ -14,9 +15,14 @@ Version 2.05
 •  K9: Updated. Has new UI!
 •  BOWLING: Updated. New map/location is by K4MB1
 •  FREELANCE JOB LUMBERJACK: Updated
+•  BANKING: Updated
+•  BEEKEEPING: Updated
+•  CASINO: Modified blackjack table %s
+•  VEHICLES: UPDATED HANDLING. WE WILL BE WORKING ON IT FROM SCRATCH. Modified Niteshade handling and price from $125,000 to $84,995. Modified Speedo4 and Speedo handling.
 
 🟢 FIXES
 ✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
+✔️ FUEL EXPORTS: Fixed AI Taxi & Driveschool due to new fuel exports
 
 🔴 REMOVED
 ❌ --: --
