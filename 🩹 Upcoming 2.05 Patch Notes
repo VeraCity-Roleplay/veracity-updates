@@ -31,7 +31,19 @@ Version 2.05
 •  --: --
 
 # RAHE SPEAKERS:
-## Features
+A full-featured, location-based music system for your server, packed with everything you'd expect and more. With our speaker system, you can carry the speaker with you, attach it to vehicles (now with visually attached speakers), queue music, access music history, set up permanent or public speakers with configurable logging.
+
+## Features:
+__**Spatial audio**__
+- Spatial audio simulates how sound works in the real world, making it possible to hear sounds differently based on your position relative to the speaker(s). This means that players will hear the music or audio differently depending on where they are - whether they’re standing close, far away, or behind the speakers. This adds depth and realism, making events like house parties or car meets feel more lifelike.
+__**Configurability**__
+- You can effortlessly add new speaker models using the provided configuration options. Each model can have its own customizable max range, filters, volume settings and much more. For example, a basic boombox can have a shorter range, while a large club speaker can cover a much larger area. The choice is yours, and it’s easy to configure to suit your needs.
+__**Music on the move**__
+- You can carry the speakers wherever you go, as they can be attached to your character and the music will follow. Alternatively, you can attach it to a vehicle, either with the speaker hidden or using the gizmo system to visually display the speaker on the vehicle. This way, the music follows the vehicle instead of your character, adding flexibility to how you set up your sound. 
+__**Speaker groups**__
+- With the speaker group system, you can connect and synchronize different speakers. For large-scale events like concerts or festivals, you can create groups with bass-heavy speakers near the stage, filling the space with deep, immersive sound, while adding more balanced speakers around the area for clarity.  For car meets or cruising with friends, speaker groups enable you to sync speakers across multiple vehicles, so everyone hears the same music at the same time, no matter how far apart you are. It enhances the sense of togetherness and creates a dynamic atmosphere. By organizing speakers into groups based on location, type, or preference, the system offers a flexible, immersive, and perfectly synchronized audio experience, elevating events to a new level.
+__**Filters**__
+- To take your audio experience even further, our speaker system allows you to apply various filters to each speaker, letting you fine-tune the sound to match your needs. Whether you're looking to emphasize deep bass at a concert or sharpen the treble for clear vocals, filters such as lowpass, highshelf, and bandpass (and many more) give you precise control over the audio output. These filters allow you to craft the perfect sound profile for any event, ensuring that every note, beat, and effect is heard exactly as intended, creating a more immersive and professional audio environment.
 
 # TRUCKING JOB:
 ## Features
