@@ -6,7 +6,9 @@ Version 2.05
 •  RAHE SPEAKERS: New boombox update. Now renamed to RAHE Speakers!
 •  TAM FUEL: Added diesel pump at Rebel Towing (possibly keeping or removing)
 •  FISHING: Added cryptobaggie within illegal fishing
-•  REAL OFFROAD: Added Sandy Garage (4010) to blacklist for real offroad. (Easier access for vehicles to get out)
+•  REAL OFFROAD: Added Sandy Garage (4010) and Beekeeping Farm to blacklist for real offroad. (Easier access for vehicles to get out)
+•  VEHICLE PUSH: Added vehicle push. Vehicle must be damaged enough to be able to do so.
+•  ATM: Added atm inside of Vanilla Unicorns main area. (Suggestion by Val. Thanks!)
 
 🟡 CHANGED
 •  OX INVENTORY: Modified stone weight from 1800g to 907g
@@ -15,9 +17,10 @@ Version 2.05
 •  K9: Updated. Has new UI!
 •  BOWLING: Updated. New map/location is by K4MB1
 •  CASINO: Modified blackjack table %s
-•  VEHICLES: UPDATED HANDLING. WE WILL BE WORKING ON IT FROM SCRATCH. Modified Niteshade handling and price from $125,000 to $84,995. Modified Speedo4 and Speedo handling. Modified Bison handling
+•  VEHICLES: UPDATED HANDLING. WE WILL BE WORKING ON IT FROM SCRATCH. Modified Niteshade handling and price from $125,000 to $84,995. Modified Speedo4 and Speedo handling. Modified Bison handling. Modified Bodhi2 handling. Modified Vivanite handling
 •  MLOS: Casino updated
 •  RESOURCE UPDATES: Jobform, Smart Fires, Beekeeping, Banking, Freelance Lumberjack Job, Vehicle Clamp Updated
+•  TAM FUEL: Added other electric vehicles to list
 
 🟢 FIXES
 ✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
@@ -46,4 +49,18 @@ __**Filters**__
 - To take your audio experience even further, our speaker system allows you to apply various filters to each speaker, letting you fine-tune the sound to match your needs. Whether you're looking to emphasize deep bass at a concert or sharpen the treble for clear vocals, filters such as lowpass, highshelf, and bandpass (and many more) give you precise control over the audio output. These filters allow you to craft the perfect sound profile for any event, ensuring that every note, beat, and effect is heard exactly as intended, creating a more immersive and professional audio environment.
 
 # TRUCKING JOB:
-## Features
+A full trucking system for your server. Includes skills, convoys, dynamic job generation and more.
+
+## Features:
+__**Skill Advancement System**__
+- As you progress in the game, you'll earn valuable skill points that open the door to five skills, each with six levels of proficiency. These skills serve as a gateway to exciting new job opportunities, enabling you to gain more money and experience.
+__**Quick Jobs / Freight Jobs**__
+- Jobs are categorized into two types: quick jobs, where the vehicle is provided, and freight jobs, requiring you to own or acquire a truck. No constraints on starting points; all jobs can start and end anywhere on the map.
+__**Convoy - Journey Together with Friends**__
+- Ability to complete jobs alongside friends. Utilize the lobby system to invite or remove members, and check job progress for convoy members in the jobs tab.
+__**Vehicles**__
+- Players have the opportunity to unlock custom trucks as they complete more jobs.
+__**Dashboard**__
+- Track your accomplishments with ease. The dashboard provides insights into completed jobs, total kilometers driven, and details of your last five assignments. Stay motivated by keeping an eye on your progress toward the next level.
+__**Leaderboard / User Profile**__
+- Measure your success against others on the leaderboard. Compare stats such as completed jobs, distance covered and rank. Customize your user profile with a unique name and picture to stand out.
