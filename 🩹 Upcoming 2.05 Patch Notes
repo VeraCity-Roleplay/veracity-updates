@@ -18,14 +18,16 @@ Version 2.05
 •  BOWLING: Updated. New map/location is by K4MB1
 •  CASINO: Modified blackjack table %s
 •  VEHICLES: UPDATED HANDLING. WE WILL BE WORKING ON IT FROM SCRATCH. Modified Niteshade handling and price from $125,000 to $84,995. Modified Speedo4 and Speedo handling. Modified Bison handling. Modified Bodhi2 handling. Modified Vivanite handling
-•  MLOS: Casino updated
-•  RESOURCE UPDATES: Jobform, Smart Fires, Beekeeping, Banking, Freelance Lumberjack Job, Vehicle Clamp Updated
+•  MLOS: Casino and Impound updated
+•  RESOURCE UPDATES: Jobform, Smart Fires, Beekeeping, Banking, Freelance Lumberjack Job, Vehicle Clamp, Envi-Medic, PD NPC Crime Report Updated
 •  TAM FUEL: Added other electric vehicles to list
+•  LUMBERJACK: Modified payouts and made it a 2+ worker job.
 
 🟢 FIXES
 ✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
 ✔️ FUEL EXPORTS: Fixed AI Taxi & Driveschool due to new fuel exports
 ✔️ ITEMS: Fixed usage of bandage
+✔️ PD NPC CRIME ALERT: Fixed the issue of certain weapons being fired would produce calls and LEOs alerted to their own shots fired.
 
 🔴 REMOVED
 ❌ RESOURCES: Lambra Trucking
