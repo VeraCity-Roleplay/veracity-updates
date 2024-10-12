@@ -1,45 +1,38 @@
-Version 2.04
+Version 2.05
 
 🟣 ADDED
-•  SHOPS: Added sandwich to shops in main fridge
-•  CARWASH: Made the car washes in Sandy (Route 68) useable now!
-•  BCSO EUP: Added training vest to females
-•  TAM FUEL: New fuel system handled by state bags!
+•  DETECTING: Added lockpick to detecting table
+•  K9: Added LEO K9 items (healing/food) K9 Medkit & K9 Food/Water
+•  RAHE SPEAKERS: New boombox update. Now renamed to RAHE Speakers!
+•  TAM FUEL: Added diesel pump at Rebel Towing (possibly keeping or removing)
+•  FISHING: Added cryptobaggie within illegal fishing
+•  REAL OFFROAD: Added Sandy Garage (4010) and Beekeeping Farm to blacklist for real offroad. (Easier access for vehicles to get out)
+•  VEHICLE PUSH: Added vehicle push. Vehicle must be damaged enough to be able to do so.
+•  ATM: Added atm inside of Vanilla Unicorns main area. (Suggestion by Val. Thanks!)
+•  VERACITY TRUCKING: Added!
+•  LATION METH: Added!
+•  FEMALE CLOTHING/HAIRS/SHOES: Added some new stuff! Optimized some female hairs
 
 🟡 CHANGED
-•  INVENTORY: Fixed weights for smash&grab
-•  RPEMOTES: Updated. Changed handsup key to Y. Cancel is still X
-•  ADVANCED GARAGES: Updated
-•  OX INVENTORY ADDONS: Updated
-•  OX TARGET: Updated
-•  VMS HUD: Possibly moving cruise control key to LEFT CTRL
-•  WP-TAXI/TAXI APP: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
-•  ENVI MEDIC: Added the fixdeletevehicle.lua for advanced parking api to delete the vehicle.
-•  WK RADAR: Modified so front passenger can modify radar if needed.
-•  SCULLY HOLSTER: Updated
-•  D3MBA LIB: Updated
-•  JG MECHANIC: Updated
-•  COCAINE: Updated
-•  HEROIN: Updated
-•  BINOCULARS: Added qbx small resource for binoculars. Added binoculars to hunting shop
-•  FISHING: Modified top potential payout by $25. Modified low potential payout by $15. Made top potential cash catch $500 instead of $100
-•  OX INVENTORY: Modified Three Striped Damsel Fish from 30000g to 2721g weight. Modified Fishing Bait (Power Bait) from 1000g to 42g. Modified Fishing Bait (Shark Bait) from 5000g to 1000g. Modified Fishing Bait (Worm Bait) from 1000 to 50. Modified Fishing Bait (Lure Bait) from 5000g to 90g. Modified Fishing Bait (Chemical Bait) from 100g to 200g. Modified Blue Tang Fish from 30000g to 600g. Modified Three Striped Damsel Fish from 30000g to 2721g. Modified Six Line Wrasse Fish from 30000g to 3330g. Modified Royal Gramma Basslet Fish from 30000g to 5000g. Modified Blue Devil Damsel Fish from 30000g to 2721g. Modified Ocellaris Clown Fish from 30000g to 2267g. Modified Blue Streak Cleaner Wrasse Fish from 30000g to 3628g.
-•  DEALERSHIPS: Modified payments from 12 to 24 total payments
-•  RECYCLE: Modified recycling.. Still working on interior portion and values. Converted to ox_lib menu and made changes. Added a sell all button for recyclables.
-•  MINING: Modified being able to open inventory while performing any of the mining procedures.
+•  OX INVENTORY: Modified stone weight from 1800g to 907g
+•  OX INVENTORY ADDONS: Added items for ItemCarry
+•  WOOSH PD: Modified npc jailing to credit job instead of player
+•  JG MECHANIC: Modified handling files for engine swaps. Now overwrites with more realistic values. Modified base prices, value of vehicle multiplier, and part multiplier for mechanic.
+•  K9: Updated. Has new UI!
+•  BOWLING: Updated. New map/location is by K4MB1
+•  CASINO: Modified blackjack table %s
+•  VEHICLES: UPDATED HANDLING. WE WILL BE WORKING ON IT FROM SCRATCH. Modified Niteshade handling and price from $125,000 to $84,995. Modified Speedo4 and Speedo handling. Modified Bison handling. Modified Bodhi2 handling. Modified Vivanite handling. Modified Flatbed handling.
+•  MLOS: Casino and Impound updated
+•  RESOURCE UPDATES: Jobform, Smart Fires, Beekeeping, Banking, Freelance Lumberjack Job, Vehicle Clamp, Envi-Medic, PD NPC Crime Report Updated
+•  TAM FUEL: Added other electric vehicles to list
+•  LUMBERJACK: Modified payouts and made it a 2+ worker job. Modified delivery blips for Lumberjack.
 
 🟢 FIXES
-✔️ VEHICLE OPTIMIZATION: Fixed Gladiator Brush, Fixed the rest of SAFR and Rebel Towing vehicles
-✔️ CONSUMABLES: Fixed sandwich prop
-✔️ FISHING: Fixed missing Green Chromis Fish. Fixed missing Coral Beauty Fish.
-✔️ CLOTHING: Fixed removing multiple unused clothing areas (thanks ToxicPanda). Fixed 644 Morningwood clothing person not being correctly placed.
-✔️ MINING: Fixed being able to mine from same rock.
+✔️ VEHICLE OPTIMIZATION: Trailers have been optimized (whether we keep some or not is a different story). BCSO Extra vehicles are optimized!
+✔️ FUEL EXPORTS: Fixed AI Taxi & Driveschool due to new fuel exports
+✔️ ITEMS: Fixed usage of bandage
+✔️ INVENTORY IMAGES: Fixed KQ Winch
+✔️ PD NPC CRIME ALERT: Fixed the issue of certain weapons being fired would produce calls and LEOs alerted to their own shots fired.
 
 🔴 REMOVED
-❌ CDN-FUEL: In with the new, out with the old!
-
-🔵 DISCORDIA/WEBSITE
-•  BUG REPORTING: Fixed it where members can reply and post images in bug reports. (Thanks Valcora!)
-
-*Please report bugs in the discordias #🐛bug-crash-reports🚧
-*Report any game breaking/exploit events in a ticket!
+❌ RESOURCES: Lambra Trucking
