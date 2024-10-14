@@ -1,7 +1,7 @@
 Version 2.06
 
 🟣 ADDED
-•  --: --
+•  NEW VEHICLE CONTROL: Added a new vehicle control menu. Now only accessible by Radial Menu
 
 🟡 CHANGED
 •  INVENTORY IMAGES: Changed vu_tacos image
@@ -9,12 +9,13 @@ Version 2.06
 •  KQ REAL OFFROAD: Added 3057 Trailer park to blacklist.
 •  BOB IPL: Updated
 •  LB PHONE: Added Vanilla Unicorn to services
+•  WOOSH PD: Changed Pullover key to "O" and Interaction Menu key to "F5" - Made gang notifications for "No gang" non-existent to free up keybinding.
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed food not stacking
 
 🔴 REMOVED
-❌ --: --
+❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
 
 🔵 DISCORDIA/WEBSITE
 •  WELCOME MESSAGES: Finally got welcome messages fixed. Should see new members popping in now!
