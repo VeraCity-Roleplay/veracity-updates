@@ -13,9 +13,13 @@ Version 2.06
 •  WOOSH PD: Changed Pullover key to "O" and Interaction Menu key to "F5" - Made gang notifications for "No gang" non-existent to free up keybinding.
 •  SERVER ARTIFACTS: Updated to 10272
 •  TXADMIN: Updated
+•  DEALERSHIPS: Moved Bifta, Vagrant, and Outlaw to Mosleys!
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed food not stacking
+✔️ FISHING: Fixed discord logging. Now shows Player ID & Name
+✔️ DRIVE SCHOOL: No other issues reported now. Vehicles not disappearing should be fixed as well as access.
+✔️ CLOTHING STORES: Fixed ped at postal 7245
 
 🔴 REMOVED
 ❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
