@@ -3,6 +3,8 @@ Version 2.06
 🟣 ADDED
 •  NEW VEHICLE CONTROL: Added a new vehicle control menu. Now only accessible by Radial Menu
 •  NEW RADIAL MENU: Added new radial menu
+•  SMOKING: Cigarettes, packs, and cigars working currently!
+•  SECRET GAME: Will be revealed tonight!
 
 🟡 CHANGED
 •  INVENTORY IMAGES: Changed vu_tacos image
@@ -14,16 +16,19 @@ Version 2.06
 •  SERVER ARTIFACTS: Updated to 10272
 •  TXADMIN: Updated
 •  DEALERSHIPS: Moved Bifta, Vagrant, and Outlaw to Mosleys!
+•  BILLING: Made it where you can see full names now during job billing
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed food not stacking
 ✔️ FISHING: Fixed discord logging. Now shows Player ID & Name
 ✔️ DRIVE SCHOOL: No other issues reported now. Vehicles not disappearing should be fixed as well as access.
 ✔️ CLOTHING STORES: Fixed ped at postal 7245
+✔️ CANDY: Fixed most of the candy. (Current issue with streaming items from Natty)
 
 🔴 REMOVED
 ❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
 ❌ RADIAL MENU: Removed old radial menu
+❌ CANDY ITEMS: Removed twerk and snikkel (no prop to work with)
 
 🔵 DISCORDIA/WEBSITE
 •  WELCOME MESSAGES: Finally got welcome messages fixed. Should see new members popping in now!
