@@ -2,6 +2,7 @@ Version 2.06
 
 🟣 ADDED
 •  NEW VEHICLE CONTROL: Added a new vehicle control menu. Now only accessible by Radial Menu
+•  NEW RADIAL MENU: Added new radial menu
 
 🟡 CHANGED
 •  INVENTORY IMAGES: Changed vu_tacos image
@@ -16,6 +17,7 @@ Version 2.06
 
 🔴 REMOVED
 ❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
+❌ RADIAL MENU: Removed old radial menu
 
 🔵 DISCORDIA/WEBSITE
 •  WELCOME MESSAGES: Finally got welcome messages fixed. Should see new members popping in now!
