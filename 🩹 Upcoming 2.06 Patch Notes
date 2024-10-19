@@ -15,20 +15,22 @@ Version 2.06
 •  BOB IPL: Updated
 •  LB PHONE: Added Vanilla Unicorn to services
 •  WOOSH PD: Changed Pullover key to "O" and Interaction Menu key to "F5" - Made gang notifications for "No gang" non-existent to free up keybinding.
-•  SERVER ARTIFACTS: Updated to 10272
+•  SERVER ARTIFACTS: Updated to 10488
 •  TXADMIN: Updated
 •  DEALERSHIPS: Moved Bifta, Vagrant, and Outlaw to Mosleys! Changed the way dealership peds interact.
 •  BILLING: Made it where you can see full names now during job billing
 •  HUD: Modified how long stress goes away (due to drugs being to help with that!)
 •  WHITE WIDOW: Updated and then modified it. Added White Widow to services app. Joints are now working as smokeables!
 •  DISCOVERABLE BLIPS: Added dealerships to list of places to discover.
+•  WHITE WIDOW: White Widow is now up and running. Joints & Edibles are currently working!
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed food not stacking
 ✔️ FISHING: Fixed discord logging. Now shows Player ID & Name
 ✔️ DRIVE SCHOOL: No other issues reported now. Vehicles not disappearing should be fixed as well as access.
 ✔️ CLOTHING STORES: Fixed ped at postal 7245
-✔️ CANDY: Fixed most of the candy. (Current issue with streaming items from Natty)
+✔️ CANDY: Fixed all of the candy for halloween event.
+✔️ SMOKING: Can now smoke in vehicles with E and it doesn't use horn. Lighter props added. Lighter fluid for lighters. Walk styles different for each drug. Animation fixed for changing smoke placement. 
 
 🔴 REMOVED
 ❌ CD VEHICLE CONTROL: Removed CD Vehicle Control
