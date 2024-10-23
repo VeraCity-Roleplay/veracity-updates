@@ -13,7 +13,6 @@ Version 2.06
 •  INVENTORY IMAGES: Changed vu_tacos image
 •  VANILLA UNICORN: Added billing system to front desk. Added billing system near DJ booth. Added coffee machine to main bar.
 •  KQ REAL OFFROAD: Added 3057 Trailer park to blacklist.
-•  BOB IPL: Updated
 •  LB PHONE: Added Vanilla Unicorn to services
 •  WOOSH PD: Changed Pullover key to "O" and Interaction Menu key to "F5" - Made gang notifications for "No gang" non-existent to free up keybinding.
 •  SERVER ARTIFACTS: Updated to 10488
@@ -24,8 +23,9 @@ Version 2.06
 •  DISCOVERABLE BLIPS: Added dealerships to list of places to discover.
 •  WHITE WIDOW: Updated and modified. Added White Widow to services app. White Widow is now up and running. Joints & Edibles are currently working!
 •  SQL: Cleaned up unused licenses
-•  MLOS: Updated Sandy Airfield, Updated Park Ranger
+•  MLOS: Updated Sandy Airfield, Updated Park Ranger, Updated BOB IPL
 •  CRIMINAL: Updated Blackmarket
+•  GENERAL RESOURCES: Updated CS DOCUMENTS, Updated SITTING
 
 🟢 FIXES
 ✔️ VANILLA UNICORN: Fixed food not stacking
@@ -43,3 +43,4 @@ Version 2.06
 
 🔵 DISCORDIA/WEBSITE
 •  WELCOME MESSAGES: Finally got welcome messages fixed. Should see new members popping in now!
+•  STORAGE RENTAL APPLICATIONS: Storage Rental Applications now accessible in Dynasty 8.
