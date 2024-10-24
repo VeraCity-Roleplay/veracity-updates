@@ -8,6 +8,7 @@ Version 2.06
 •  SLEEPLESS PED MANAGER: To manage some peds for various interactions.
 •  SLEEPLESS INTERACT: Simple interactions for certain peds.
 •  BL UI MINIGAMES: Added
+•  ITEMS: Added "Pleatherman Tool" - Used for dragcraft essentials
 
 🟡 CHANGED
 •  INVENTORY IMAGES: Changed vu_tacos image
@@ -25,7 +26,7 @@ Version 2.06
 •  SQL: Cleaned up unused licenses
 •  MLOS: Updated Sandy Airfield, Updated Park Ranger, Updated BOB IPL, Updated VFD 8 Bay, Updated Blaine County City Hall
 •  CRIMINAL: Updated Blackmarket
-•  GENERAL RESOURCES: Updated CS DOCUMENTS, Updated SITTING, Updated ENVI DUMPSTERS, Updated OUTFIT BAG, Updated EBU TRAILER CONNECT. Updated JG Advanced Garages
+•  GENERAL RESOURCES: Updated CS DOCUMENTS, Updated SITTING, Updated ENVI DUMPSTERS, Updated OUTFIT BAG, Updated EBU TRAILER CONNECT. Updated JG Advanced Garages. Updated TAM Better Radio Animations and set them up. Updated Scully Holster
 •  CLOTHING/MODELS: Updated XTXVXTX FEMALE/MALE BODY REMASTERED
 
 🟢 FIXES
